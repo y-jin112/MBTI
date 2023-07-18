@@ -1,0 +1,13 @@
+body{
+    background-color: #F6FCFF;
+    background-image: url("../images/main_bg.jpg");
+    background-position: top center;
+    background-position: no-repeat;
+    padding: 80px 0;
+}
+.character{
+    width: 100%;
+    max-width: 364px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
